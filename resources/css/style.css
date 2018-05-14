@@ -1,0 +1,74 @@
+h1,
+h2,
+h3,
+h4,
+a,
+p {
+  text-align: center;
+  font-family: helvetica;
+
+}
+
+h1,
+ul {
+  background-image: url("/Users/dagmawebehailuassefa/Documents/test/broadway/resources/images/the-flatiron-building.png");
+}
+
+h3,
+h4,
+p {
+  color: black;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.xbg {
+  background-image: url("/Users/dagmawebehailuassefa/Documents/test/broadway/resources/images/the-flatiron-building.png");
+  color: white;
+  text-align: center;
+}
+
+.xxp {
+  align-items: center;
+}
+
+.diny {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.contact {
+  font-weight: normal;
+}
+
+.footer {
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
